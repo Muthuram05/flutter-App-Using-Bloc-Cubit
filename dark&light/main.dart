@@ -1,8 +1,8 @@
-import 'package:bloc_app/app/routes/app.routes.dart';
-import 'package:bloc_app/presentation/views/home/home.view.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+import 'app/routes/app.routes.dart';
 import 'custome_bloc_providers.dart';
 import 'domain/cubit/theme_cubit.dart';
 
